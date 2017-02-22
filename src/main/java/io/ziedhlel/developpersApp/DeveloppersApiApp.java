@@ -9,5 +9,6 @@ public class DeveloppersApiApp {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(DeveloppersApiApp.class, args);
+		System.out.println("test");
 	}
 }
